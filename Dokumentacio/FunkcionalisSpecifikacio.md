@@ -1,3 +1,4 @@
+
 # Funkcionális specifikáció
 ## A fejlesztés folyamán főbb motivációink, és hátráltató tényezők
 Célunk egy olyan felhasználóbarát, ergonomikus weboldal készítése, melynek segítségével az ügyfelek othonuk kényelméből élvezhetik frissen készített pizzákat legyen az egyéni kikapcsolódás keretein belül, családi esemény vagy időtöltés a párjukkal. 

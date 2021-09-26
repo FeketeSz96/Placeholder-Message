@@ -25,3 +25,13 @@
 - Frontend - Backend munka kiosztás
 
 
+## 2. Megbeszélés
+### Ideje: 2021. szeptember 26.
+### Téma: Kezdetleges követelmény specifikációk és funkcionális specifikációk egyeztetése
+### Tagok
+- Simon Árpád
+- Szeifert Roland
+
+### Egyezetés
+- Egyezetésre került az előre összeállított kezdetleges KovetelmenySpecifikaciok.md tartalma és elfogadásra került
+- Egyezetésre került az előre összeállított kezdetleges FunkcionalisSpecifikaciok.md tartalma és elfogadásra került

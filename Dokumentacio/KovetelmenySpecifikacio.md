@@ -1,3 +1,4 @@
+
 # Követelmény specifikáció
 ## Jogszabályok
 * A Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.);
