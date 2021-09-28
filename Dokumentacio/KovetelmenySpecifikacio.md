@@ -30,3 +30,11 @@ Hatása: ***nagy***
 * Adatvesztés (***kicsi***): Adattárolásunkra mindig gondosan ügyelünk, adatvesztés előfordulási esélyét minimalizáltuk. Esetleges bekövetkezése esetén --- az el nem mentett állományok mennyiségétől függően --- értékes munkaórákat vesztenénk.
 Vlószínűsége: ***nagyon alacsoncs***
 Hatása: ***nagy***
+## Projektcsapat
+|Név				|Beosztás		|Elérhetőség				|
+|-------------------|---------------|---------------------------|
+|Fekete Szabolcs	|Senor			|fekszabolcs@gmail.com		|
+|Vasas Csaba		|Senor			|csaba19999@gmail.com		|
+|Simon Árpád		|Junior			|simonarpad2002@gmail.com	|
+|Szeifert Roland	|Junior			|szeifert.r0119@gmail.com	|
+|Tóth Gyula Bátor	|Junior			|batordtoth@gmail.com		|
