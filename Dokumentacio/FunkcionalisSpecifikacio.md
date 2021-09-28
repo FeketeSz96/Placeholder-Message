@@ -16,7 +16,6 @@ Korlátozott munkaerőforrás és idő --- tekintettel a járványhelyzet mostan
 |								|-- tudjanak jogosultságokat kezelni					|
 |A felhasználók					|-- tudják személyes adataikat módosítani				|
 |								|-- tudjanak rendelni									|
-|								|-- tudjanak új jelszót kérni							|
 |A vendégek						|-- meg tudja nézni a menűt								|
 ### Rendelések nyomonkövetése
 Arendelések nyomonkövetéséhez hozzá kell adnunk még egy negyedik jogkört, ez lesz az étterem saját felhasználói fiókja. Ez nem tartozik bele a felhasznlói csoportokba, ez azok felett fog állni, az adminisztrátorok álltal is érinthetetlen.
@@ -28,7 +27,6 @@ A -- Jogosultságok kezelése -----> E
 B((Az étterem)) -- Rendelések lekérése -----> E
 B -- Rendelések státuszának módosítása -----> E
 C((Felhaasználó)) -- Személyes adatok módosítása -----> E
-C -- Új jelszó kérése -----> E
 C -- Rendelés -----> E
 D((Vendég)) -- Menű megnézése -----> E
 
