@@ -38,7 +38,14 @@ Hatása: ***nagy***
 |Simon Árpád		|Junior			|simonarpad2002@gmail.com	|
 |Szeifert Roland	|Junior			|szeifert.r0119@gmail.com	|
 |Tóth Gyula Bátor	|Junior			|batordtoth@gmail.com		|
-
+## Munkakörnyezet
+|Név				|Processzor		|Ram	|Operációs rendszer |Böngésző	|
+|-------------------|---------------|-------|-------------------|-----------|
+|Fekete Szabolcs	|i7-7700K		|16gb	|Windows 10 64 bit	|Chrome		|
+|Vasas Csaba		|i7-3930K		|32gb	|Windows 10 64 bit	|Chrome		|
+|Simon Árpád		|i5-4460		|8gb	|Windows 10 64 bit	|Chrome		|
+|Szeifert Roland	|i5-7500		|16gb	|Windows 10 64 bit	|Chrome		|
+|Tóth Gyula Bátor	|i5-5200		|16gb	|Windows 10 64 bit	|Chrome		|
 ## Munkamenedzsment
 Alacsony létszámunkból adódóan nincs szükségünk menedzsmentre. A kapcsolatot folyamatosan tartjuk discordon meetingek formájában, ahol egyeztetjük tevékenységeinket, beszélünk az elvégzendő feladatokról és az előttünk álló nehézségekről.
 ## Meetingek
