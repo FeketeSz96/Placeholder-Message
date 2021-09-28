@@ -22,7 +22,6 @@
 - A seniorok elmondják a lehetséges ütemtervet
 - A seniorok válaszolnak a juniorok kérdéseire
 - Git és Trello létrehozása, tagok hozzáadása
-- Frontend - Backend munka kiosztás
 
 
 ## 2. Megbeszélés
@@ -35,3 +34,22 @@
 ### Egyezetés
 - Egyezetésre került az előre összeállított kezdetleges KovetelmenySpecifikaciok.md tartalma és elfogadásra került
 - Egyezetésre került az előre összeállított kezdetleges FunkcionalisSpecifikaciok.md tartalma és elfogadásra került
+
+
+## 3. Megbeszélés
+### Ideje: 2021. szeptember 28.
+### Téma: Dokumentáció véglegesítése, fejlesztés kezdése
+### Tagok
+- Fekete Szabolcs
+- Vasas Csaba
+- Simon Árpád
+- Szeifert Roland
+- Tóth Gyula Bátor
+
+### Kitűzött célok:
+- Pár napon belül véglegesíteni a dokumentációt
+  - követelmény specifikáció
+  - funkcionális specifikáció
+  - rendszerterv
+  - tesztterv
+- Amint végeztünk a dokumentációval kezdeni kell a fejlesztést
