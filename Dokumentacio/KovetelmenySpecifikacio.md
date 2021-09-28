@@ -39,5 +39,7 @@ Hatása: ***nagy***
 |Szeifert Roland	|Junior			|szeifert.r0119@gmail.com	|
 |Tóth Gyula Bátor	|Junior			|batordtoth@gmail.com		|
 
+## Munkamenedzsment
+Alacsony létszámunkból adódóan nincs szükségünk menedzsmentre. A kapcsolatot folyamatosan tartjuk discordon meetingek formájában, ahol egyeztetjük tevékenységeinket, beszélünk az elvégzendő feladatokról és az előttünk álló nehézségekről.
 ## Meetingek
 Közös Meetingek alatt folyamatosan tartjuk a kapcsolatot, és ezekről [jegyzőkönyvet]https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Jegyzokonyv.md vezetünk.
