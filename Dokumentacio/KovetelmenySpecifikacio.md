@@ -1,5 +1,7 @@
 
 # Követelmény specifikáció
+## Előszó
+A vírushelyzet előtt is szüksége volt minden vendéglátással kapcsolatos vállalkozásnak egy jól működő weboldalra, a vírushelyzet beállta óta azonban ez az egyetlen biztos forrás ahonnan a kiesett bevételeket lehet pótolni. Célunk egy olyan felhasználóbarát, ergonomikus weboldal készítése, melynek segítségével az ügyfelek othonuk kényelméből élvezhetik frissen készített pizzákat legyen az egyéni kikapcsolódás keretein belül, családi esemény vagy időtöltés a párjukkal.
 ## Jogszabályok
 * A Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.);
 * Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (Ektv.);
