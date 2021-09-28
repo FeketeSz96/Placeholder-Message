@@ -38,3 +38,6 @@ Hatása: ***nagy***
 |Simon Árpád		|Junior			|simonarpad2002@gmail.com	|
 |Szeifert Roland	|Junior			|szeifert.r0119@gmail.com	|
 |Tóth Gyula Bátor	|Junior			|batordtoth@gmail.com		|
+
+## Meetingek
+Közös Meetingek alatt folyamatosan tartjuk a kapcsolatot, és ezekről [jegyzőkönyvet]https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Jegyzokonyv.md vezetünk.
