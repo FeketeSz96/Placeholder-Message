@@ -13,7 +13,7 @@ Dokumentációk véglegesítése, prototípus készítése, hibák keresése, sz
 ## Fizikai környezet
 A weblap alapja (backend) PHP alapján fut, míg a kinézetet (frontend) HTML-ben valósítjuk meg.
 ## Tesztterv integrálása a dokumentumba
-**to be continued**
+A tesztterv [itt](https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Tesztterv.md "Tesztterv.md") érhető el.
 ## Telepítési terv
 A weblap telepítés nélkül futtatható, bármely webböngészőn keresztül, belső hálózaton.
 ## Karbantartási terv
