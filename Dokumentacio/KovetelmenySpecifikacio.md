@@ -22,14 +22,14 @@ A vírushelyzet előtt is szüksége volt minden vendéglátással kapcsolatos v
 A jogszabályok elérhetőek a  [www.njt.hu](http://www.njt.hu/)  oldalon.
 ## Rizikómenedzsment
 * Betegség (***nagyon magas***): A korona vírus 4. hulláma és az influenza szezon közeledte egyre nagyobb veszélyt jelent még egy ilyen aprócska fejlesztőcsapatra is. Produktivitásunk csökkentése mellett fennáll a veszélye annak is, hogy kieshet a munkából bármely fejlesztőtársunk. 
-Valószínűsége: ***nagyon magas***
-Hatása: ***közepes - nagy***
+	* Valószínűsége: ***nagyon magas***
+	* Hatása: ***közepes - nagy***
 * Eszközeink bármelyikének meghibásodása(***kicsi***): Eszközeink jó állapotúak, jól karban vannak tartva a meghibásodás esélye minimalizálva van. Azért is minimalizáljuk a meghibásodás esélyét mivel, ha bekövetkezne nagy hatással lenne a határidők betartására.
-Valószínűsége: ***nagyon alacsony***
-Hatása: ***nagy***
+	* Valószínűsége: ***nagyon alacsony***
+	* Hatása: ***nagy***
 * Adatvesztés (***kicsi***): Adattárolásunkra mindig gondosan ügyelünk, adatvesztés előfordulási esélyét minimalizáltuk. Esetleges bekövetkezése esetén --- az el nem mentett állományok mennyiségétől függően --- értékes munkaórákat vesztenénk.
-Valószínűsége: ***nagyon alacsony***
-Hatása: ***nagy***
+	* Valószínűsége: ***nagyon alacsony***
+	* Hatása: ***nagy***
 ## Projektcsapat
 |Név				|Beosztás		|Elérhetőség				|
 |-------------------|---------------|---------------------------|
@@ -49,4 +49,4 @@ Hatása: ***nagy***
 ## Munkamenedzsment
 Alacsony létszámunkból adódóan nincs szükségünk menedzsmentre. A kapcsolatot folyamatosan tartjuk discord-on meetingek formájában, ahol egyeztetjük tevékenységeinket, beszélünk az elvégzendő feladatokról és az előttünk álló nehézségekről.
 ## Meetingek
-Közös Meetingek alatt folyamatosan tartjuk a kapcsolatot, és ezekről [jegyzőkönyvet](https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Jegyzokonyv.md "Jegyzokonyv.md")vezetünk.
+Közös Meetingek alatt folyamatosan tartjuk a kapcsolatot, és ezekről [jegyzőkönyvet](https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Jegyzokonyv.md "Jegyzokonyv.md") vezetünk.
