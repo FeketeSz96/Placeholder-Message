@@ -1,4 +1,3 @@
-
 # Funkcionális specifikáció
 ## A fejlesztés folyamán főbb motivációink, és hátráltató tényezők
 Célunk egy olyan felhasználóbarát, ergonomikus weboldal készítése, melynek segítségével az ügyfelek othonuk kényelméből élvezhetik frissen készített pizzákat legyen az egyéni kikapcsolódás keretein belül, családi esemény vagy időtöltés a párjukkal. 
@@ -39,6 +38,8 @@ D((Vendég)) -- Menű megnézése -----> E
 ## Funkciók használati esetei
 **to be continued**
 ## Forgató könyvek
-Minden felhasználónkat egy igényes és esztétikus kezdőlap fogad amiről felhasználóink tovább mehetnek (a navigációs sávon keresztül) megannyi oldalra. **to be continued**
+Minden felhasználónkat egy igényes és esztétikus kezdőlap fogad amiről felhasználóink tovább mehetnek (a navigációs sávon keresztül) megannyi oldalra.
+A navigáció sáv a Kezdőlap, Kategóriák, Kiemelet Ajánlatok és Hírlevélre való feliratkozás menüpontokat tartalmazza. Az oldal logója mellett egy keresővel lehet keresni a termékek között. A headerben szerepel még egy "kosár" funkció, amire kattintva meg lehet tekinteni a megvásárolni kívánt termékeket, illetve, egy felhassználói felületre navigáló ikon. A bejelentkező felületen keresztül lehet regisztrációs folyamatot végrehajtani. Ezen funkciók a rendszerbe való belépés előtt minden esetben elérhetők.**to be continued**
+
 ## A weboldal szükségessége
 A kishazánkat is elérő koronavírus 4. hulláma folyamán kiemelt fontosságú, hogy az érintkezések számát ahol lehet csökkentsük, valamint az esetleges újboli lezárásokat követően a kisvállalkozások anyagi bevételeit fenn tudjuk tartani, hogy megannyi ígéretes vállakozás életben tudjon maradni ezen időszak alatt. Manapság egy vállalkozás életében hatalmas mérföldkő, egy a vállalkozáshoz szorosan köthető weboldal megjelenése. Ennek a weboldalnak a célja az emberek széles körű tájékoztatása a vállalkozás álltal nyújtott szolgáltatásokról. Ezen okokból kifolyólag fontos egy weblap mielőbbi készítése.
