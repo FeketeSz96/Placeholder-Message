@@ -36,6 +36,33 @@ D((Vendég)) -- Menű megnézése -----> E
 -- A fontosabb funkciókat felhasználói fiókhoz kell kötni
 -- Az étterem saját fiókját érinthetetlenné kell tenni, számát azonban nem korlátozhatjuk a későbbi esetleges terjeszkedés miatt
 ## Funkciók használati esetei
+
+A rendszer használói a következők:
+
+* vendég
+* regisztrált
+* adminisztrátor
+A rendszernek a következő funkciókat kell ellátnia:
+
+* Adminisztrátorok tudjanak terméket regisztrálni és törölni
+* A regisztrált és vendég felhasználók tudjanak termékeket összehasonlítani
+* A regisztrált és vendég felhasználók tudjanak termékeket rendelni
+* A regisztrált és vendég felhasználók tudjanak fizetni
+* A regisztrált felhasználók tudjanak fiók adatot módosítani
+* A regisztrált felhasználók tudjanak hozzászólásokat írni
+* A regisztrált felhasználók tudjanak új jelszót kérni
+* A regisztrált felhasználók tudják a kosár tartalmát menteni
+* Adminisztrátorok tudjanak felhasználókat moderálni
+* Adminisztrátorok tudjanak jogosultságokat kezelni
+* Adminisztrátorok tudjanak új terméket hozzáadni
+* Adminisztrátorok képesek legyenek a webshopot hibamentesen karbantartani
+* vendégek belépés nélkül is tudjanak keresni és rendelni
+* A rendszerhez tartozik még a vásárlási folyamatban használt kosár funkció is.
+Előfeltételek:
+
+* adminisztrátorok és regisztráltak részére a rendszer használatához jelszó szükséges
+* fiókadat módosításhoz, hozzászóláshoz, új jelszó kéréshez, és a kosár tartalmának mentéséhez regisztráció szükséges
+
 **to be continued**
 ## Forgató könyvek
 Minden felhasználónkat egy igényes és esztétikus kezdőlap fogad amiről felhasználóink tovább mehetnek (a navigációs sávon keresztül) megannyi oldalra.
@@ -54,5 +81,6 @@ A Személyes adatok űrlapon végrehajtható feladatok:
 * e-mail cím
 * lakcím
 
+**to be continued**
 ## A weboldal szükségessége
 A kishazánkat is elérő koronavírus 4. hulláma folyamán kiemelt fontosságú, hogy az érintkezések számát ahol lehet csökkentsük, valamint az esetleges újboli lezárásokat követően a kisvállalkozások anyagi bevételeit fenn tudjuk tartani, hogy megannyi ígéretes vállakozás életben tudjon maradni ezen időszak alatt. Manapság egy vállalkozás életében hatalmas mérföldkő, egy a vállalkozáshoz szorosan köthető weboldal megjelenése. Ennek a weboldalnak a célja az emberek széles körű tájékoztatása a vállalkozás álltal nyújtott szolgáltatásokról. Ezen okokból kifolyólag fontos egy weblap mielőbbi készítése.
