@@ -39,7 +39,11 @@ D((Vendég)) -- Menű megnézése -----> E
 **to be continued**
 ## Forgató könyvek
 Minden felhasználónkat egy igényes és esztétikus kezdőlap fogad amiről felhasználóink tovább mehetnek (a navigációs sávon keresztül) megannyi oldalra.
-A navigáció sáv a Kezdőlap, Kategóriák, Kiemelet Ajánlatok és Hírlevélre való feliratkozás menüpontokat tartalmazza. Az oldal logója mellett egy keresővel lehet keresni a termékek között. A headerben szerepel még egy "kosár" funkció, amire kattintva meg lehet tekinteni a megvásárolni kívánt termékeket, illetve, egy felhassználói felületre navigáló ikon. A bejelentkező felületen keresztül lehet regisztrációs folyamatot végrehajtani. Ezen funkciók a rendszerbe való belépés előtt minden esetben elérhetők.**to be continued**
+A navigáció sáv a Kezdőlap, Kategóriák, Kiemelet Ajánlatok és Hírlevélre való feliratkozás menüpontokat tartalmazza. Az oldal logója mellett egy keresővel lehet keresni a termékek között. A headerben szerepel még egy "kosár" funkció, amire kattintva meg lehet tekinteni a megvásárolni kívánt termékeket, illetve, egy felhassználói felületre navigáló ikon. A bejelentkező felületen keresztül lehet regisztrációs folyamatot végrehajtani. Ezen funkciók a rendszerbe való belépés előtt minden esetben elérhetők.
+
+Amennyiben a felhasználó adminisztrátor, a "Kezdőlap" menüpont mellett a "Módosítás" opció jelenik meg. Ezt választva megjelenítjük az adminisztrációs felületet, ahol az oldallal kapcsolatos változtatásokat lehet elvégezni. Termék hozzáadsa, törlés, módosítás, akciózás, ár, felhasználó hozzáadása, törlése, módosítása, jogosuétságának beállítása.
+
+Emellett a felhasználó ikonra kattintva megjelenik a belépett felhasználó neve, személyes adatai, jelszava, "Kijelentkezés" pontok közül lehet választani.**to be continued**
 
 ## A weboldal szükségessége
 A kishazánkat is elérő koronavírus 4. hulláma folyamán kiemelt fontosságú, hogy az érintkezések számát ahol lehet csökkentsük, valamint az esetleges újboli lezárásokat követően a kisvállalkozások anyagi bevételeit fenn tudjuk tartani, hogy megannyi ígéretes vállakozás életben tudjon maradni ezen időszak alatt. Manapság egy vállalkozás életében hatalmas mérföldkő, egy a vállalkozáshoz szorosan köthető weboldal megjelenése. Ennek a weboldalnak a célja az emberek széles körű tájékoztatása a vállalkozás álltal nyújtott szolgáltatásokról. Ezen okokból kifolyólag fontos egy weblap mielőbbi készítése.
