@@ -1,7 +1,7 @@
 
 # Rendszerterv
 ## Rendszer célja
-**to be continued**
+Ez a számítógépes szoftver egy megrendelés hatására készül. Egy ---a rendelő kérése szerint--- weblap, melyen lehet rendelni a pizzazoból.
 ## Ütemterv
 **to be continued**
 ## Jelenlegi üzleti modell ábra
