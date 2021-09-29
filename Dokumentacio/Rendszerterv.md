@@ -3,7 +3,7 @@
 ## Rendszer célja
 Ez a számítógépes szoftver egy megrendelés hatására készül. Egy ---a rendelő kérése szerint--- weblap, melyen lehet rendelni a pizzazoból.
 ## Ütemterv
-**to be continued**
+Dokumentációk véglegesítése, prototípus készítése, hibák keresése, szoftver átadása a megrendelőnek.
 ## Jelenlegi üzleti modell ábra
 **to be continued**
 ## Igényelt üzleti modell ábra
