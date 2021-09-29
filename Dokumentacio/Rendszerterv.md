@@ -7,7 +7,7 @@ Dokumentációk véglegesítése, prototípus készítése, hibák keresése, sz
 ## Jelenlegi üzleti modell ábra
 ![jelenlegiuzletimodell](https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Img/Jelenlegi.png)
 ## Igényelt üzleti modell ábra
-**to be continued**
+![igenyeltuzletimodell](https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Img/Igenyelt.png)
 ## Követelmény listák
 **to be continued**
 ## Fizikai környezet
