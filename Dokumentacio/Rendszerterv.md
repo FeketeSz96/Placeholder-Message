@@ -5,7 +5,7 @@ Ez a számítógépes szoftver egy megrendelés hatására készül. Egy ---a re
 ## Ütemterv
 Dokumentációk véglegesítése, prototípus készítése, hibák keresése, szoftver átadása a megrendelőnek.
 ## Jelenlegi üzleti modell ábra
-**to be continued**
+![jelenlegiuzletimodell](https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Img/Jelenlegi.png)
 ## Igényelt üzleti modell ábra
 **to be continued**
 ## Követelmény listák
