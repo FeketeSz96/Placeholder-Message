@@ -17,4 +17,6 @@ A weblap alapja (backend) PHP alapján fut, míg a kinézetet (frontend) HTML-be
 ## Telepítési terv
 A weblap telepítés nélkül futtatható, bármely webböngészőn keresztül, belső hálózaton.
 ## Karbantartási terv
-**to be continued**
+A webes alkalmazás --egyszerűségéből adódóan-- minimális karbantartást igényel, amely a következőkre bontható:
+* Annak vizsgálata, hogy a jövőben a böngészőfrissítések nem lehetetlenítik el a működését
+* A szerver folyamatos karbantartást és megfelelő kezelést igényel
