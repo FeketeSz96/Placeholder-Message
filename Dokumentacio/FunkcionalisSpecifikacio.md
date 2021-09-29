@@ -36,7 +36,6 @@ D((Vendég)) -- Menű megnézése -----> E
 -- A fontosabb funkciókat felhasználói fiókhoz kell kötni
 -- Az étterem saját fiókját érinthetetlenné kell tenni, számát azonban nem korlátozhatjuk a későbbi esetleges terjeszkedés miatt
 ## Funkciók használati esetei
-
 A rendszer használói a következők:
 
 * vendég
@@ -71,8 +70,6 @@ A navigáció sáv a Kezdőlap, Kategóriák, Kiemelet Ajánlatok és Hírlevél
 Amennyiben a felhasználó adminisztrátor, a "Kezdőlap" menüpont mellett a "Módosítás" opció jelenik meg. Ezt választva megjelenítjük az adminisztrációs felületet, ahol az oldallal kapcsolatos változtatásokat lehet elvégezni. Termék hozzáadsa, törlés, módosítás, akciózás, ár, felhasználó hozzáadása, törlése, módosítása, jogosuétságának beállítása.
 
 Emellett a felhasználó ikonra kattintva megjelenik a belépett felhasználó neve, személyes adatai, jelszava, "Kijelentkezés" pontok közül lehet választani.
-
-A Személyes adatok űrlapon végrehajtható feladatok:
 
 ### ***A Személyes adatok felületen megjelenítendő feladatok:***
 	1) Felhasználók esetében módosítható:
