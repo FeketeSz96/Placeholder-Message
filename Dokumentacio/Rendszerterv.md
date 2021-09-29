@@ -11,7 +11,7 @@ Dokumentációk véglegesítése, prototípus készítése, hibák keresése, sz
 ## Követelmény listák
 **to be continued**
 ## Fizikai környezet
-**to be continued**
+A weblap alapja (backend) PHP alapján fut, míg a kinézetet (frontend) html-ben valósítjuk meg.
 ## Tesztterv integrálása a dokumentumba
 **to be continued**
 ## Telepítési terv
