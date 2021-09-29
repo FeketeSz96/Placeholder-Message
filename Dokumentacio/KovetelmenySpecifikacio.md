@@ -1,9 +1,9 @@
 
 # Követelmény specifikáció
 ## Előszó
-A vírushelyzet előtt is szüksége volt minden vendéglátással kapcsolatos vállalkozásnak egy jól működő weboldalra, a vírushelyzet beállta óta azonban ez az egyetlen biztos forrás ahonnan a kiesett bevételeket lehet pótolni. Célunk egy olyan felhasználóbarát, ergonomikus weboldal készítése, melynek segítségével az ügyfelek othonuk kényelméből élvezhetik frissen készített pizzákat legyen az egyéni kikapcsolódás keretein belül, családi esemény vagy időtöltés a párjukkal.
+A vírushelyzet előtt is szüksége volt minden vendéglátással kapcsolatos vállalkozásnak egy jól működő weboldalra, a vírushelyzet beállta óta azonban ez az egyetlen biztos forrás ahonnan a kiesett bevételeket lehet pótolni. Célunk egy olyan felhasználóbarát, ergonomikus weboldal készítése, melynek segítségével az ügyfelek otthonuk kényelméből élvezhetik frissen készített pizzákat legyen az egyéni kikapcsolódás keretein belül, családi esemény vagy időtöltés a párjukkal.
 ## Vágyálomrendszer
-* Az oldalra tévedők szabadon láthatjá a pizzazo menüjét
+* Az oldalra tévedők szabadon láthatja a pizzázó menüjét
 * A rendeléshez regisztráció szükséges
 	* Regisztráció közben meg kell adni a kiszállítási címet
 * Rendelést követően visszajelzést kap a vásárló a rendelés sikerességéről és a várható kiszállítási dátumról
@@ -21,14 +21,14 @@ A vírushelyzet előtt is szüksége volt minden vendéglátással kapcsolatos v
 
 A jogszabályok elérhetőek a  [www.njt.hu](http://www.njt.hu/)  oldalon.
 ## Rizikómenedzsment
-* Betegség (***nagyon magas***): A korona vírus 4. hulláma és az influenza szezon közeledte egyre nagyobb veszélyt jelent még egy ilyen aprócska fejlesztőcsapatra is. Produktivitásunk csökkentése mellett fenn áll a veszélye annak is, hogy kieshet a munkából bármely fejlesztőtársunk. 
-Vlószínűsége: ***nagyon magas***
+* Betegség (***nagyon magas***): A korona vírus 4. hulláma és az influenza szezon közeledte egyre nagyobb veszélyt jelent még egy ilyen aprócska fejlesztőcsapatra is. Produktivitásunk csökkentése mellett fennáll a veszélye annak is, hogy kieshet a munkából bármely fejlesztőtársunk. 
+Valószínűsége: ***nagyon magas***
 Hatása: ***közepes - nagy***
-* Eszközeink bármelyikének meghibásodása(***kicsi***): Eszközeink jó állapotuak, jól karban vannak tartva a meghibásodás esélye minimalizálva van. Azért is minimalizáljuk a meghibásodás esélyét mivel ha bekövetkezne nagy hatással lenne a határidők betartására.
-Vlószínűsége: ***nagyon alacsoncs***
+* Eszközeink bármelyikének meghibásodása(***kicsi***): Eszközeink jó állapotúak, jól karban vannak tartva a meghibásodás esélye minimalizálva van. Azért is minimalizáljuk a meghibásodás esélyét mivel, ha bekövetkezne nagy hatással lenne a határidők betartására.
+Valószínűsége: ***nagyon alacsony***
 Hatása: ***nagy***
 * Adatvesztés (***kicsi***): Adattárolásunkra mindig gondosan ügyelünk, adatvesztés előfordulási esélyét minimalizáltuk. Esetleges bekövetkezése esetén --- az el nem mentett állományok mennyiségétől függően --- értékes munkaórákat vesztenénk.
-Vlószínűsége: ***nagyon alacsoncs***
+Valószínűsége: ***nagyon alacsony***
 Hatása: ***nagy***
 ## Projektcsapat
 |Név				|Beosztás		|Elérhetőség				|
@@ -47,6 +47,6 @@ Hatása: ***nagy***
 |Szeifert Roland	|i5-7500		|16gb	|Windows 10 64 bit	|Chrome		|
 |Tóth Gyula Bátor	|i5-5200		|16gb	|Windows 10 64 bit	|Chrome		|
 ## Munkamenedzsment
-Alacsony létszámunkból adódóan nincs szükségünk menedzsmentre. A kapcsolatot folyamatosan tartjuk discordon meetingek formájában, ahol egyeztetjük tevékenységeinket, beszélünk az elvégzendő feladatokról és az előttünk álló nehézségekről.
+Alacsony létszámunkból adódóan nincs szükségünk menedzsmentre. A kapcsolatot folyamatosan tartjuk discord-on meetingek formájában, ahol egyeztetjük tevékenységeinket, beszélünk az elvégzendő feladatokról és az előttünk álló nehézségekről.
 ## Meetingek
-Közös Meetingek alatt folyamatosan tartjuk a kapcsolatot, és ezekről [jegyzőkönyvet]https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Jegyzokonyv.md vezetünk.
+Közös Meetingek alatt folyamatosan tartjuk a kapcsolatot, és ezekről [jegyzőkönyvet](https://github.com/FeketeSz96/Placeholder-Message/blob/main/Dokumentacio/Jegyzokonyv.md "Jegyzokonyv.md")vezetünk.
