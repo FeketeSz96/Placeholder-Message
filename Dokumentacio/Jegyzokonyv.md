@@ -46,6 +46,16 @@
 - Szeifert Roland
 - Tóth Gyula Bátor
 
+## 4. Megbeszélés
+### Ideje: 2021. október 1.
+### Téma: Projekt feladatok kiosztása, Dokumentációk finomítása
+### Tagok
+- Fekete Szabolcs
+- Vasas Csaba
+- Simon Árpád
+- Szeifert Roland
+- Tóth Gyula Bátor
+
 ### Kitűzött célok:
 - Pár napon belül véglegesíteni a dokumentációt
   - követelmény specifikáció
