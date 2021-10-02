@@ -16,6 +16,12 @@ A tesztelési terv célja, a tesztelés teljes körűségének biztosítása, a 
 
 ### 1.2 Elvárások
 
+Az alábbi alap elvárások képezik ennek a teszttervnek az alapját:
+
+* Az olvasó ismeri az alapdokumentumokat, amelyek meghatározzák a rendszert.
+* A tesztprogram az ebben a dokumentumban meghatározott tesztterv alapján fut.
+
+
 ## Szükséges erőforrások
 ## Tesztelési terv
 
