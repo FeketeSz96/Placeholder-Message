@@ -30,6 +30,8 @@ A frontend teszteléséhez a böngészőbe beépített segédeszközökkel kerü
 
 ### 3.1 Fejlesztői teszt
 
+Tervezés és fejlesztés során ügyelünk arra, hogy lehetőleg minden hibát kiküszöböljünk, de természetesen előfordulhatnak problémák, amikre nem gondoltunk.
+
 ### 3.2 Integrációs teszt
 
 ### 3.3 Elfogadási teszt
