@@ -12,7 +12,7 @@ A Backend tesztelése azért is tartozik a legfontosabb és legnehezebb feladato
 
 ### 1.1 Tesztelési terv hatóköre, célja
 
-
+A tesztelési terv célja, a tesztelés teljes körűségének biztosítása, a tesztelés során alkalmazott eljárások és megoldások meghatározásával.
 
 ### 1.2 Elvárások
 
