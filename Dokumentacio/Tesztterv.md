@@ -38,6 +38,8 @@ A szoftver nem használ külső rendszert, sem API ,se egyéb módon, viszont az
 
 ### 3.3 Elfogadási teszt
 
+A megrendelő számára átadásra kerül egy példány a weboldalról, aki egy hozzáértő személy segítségével, vagy általa kiválasztott felhasználókkal teszteli. Ha a megrendelő hibát tapasztal, azt a lehető leghamarabb jelzi a fejlesztő csapat felé, hogy a hiba minél előbb javításra kerüljön. Ha a megrendelő számára megfelel a szoftver, úgy elfogadásra kerül a teszt és megkezdődik az éles tesztelés.
+
 ### 3.4 Terheléses teszt
 
 ### 3.5 Biztonsági teszt
