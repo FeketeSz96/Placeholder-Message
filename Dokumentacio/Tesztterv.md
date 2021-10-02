@@ -2,7 +2,8 @@
 # Tesztterv
 ## 1. Bevezetés
 
-A fejlesztőcsapat célja, hogy a produktum kikerülése előtt, a lehető legnagyobb mértékű tesztelésen essen át a szoftver. Ezzel rengeteg problémát megelőzve, és a hibajavítások elvégzése után egy megbízható szoftvert adhatunk át a megrendelőnek.
+A fejlesztőcsapat célja, hogy a produktum kikerülése előtt, a lehető legnagyobb mértékű tesztelésen essen át a szoftver. Ezzel rengeteg problémát megelőzve, és a 
+hibajavítások elvégzése után egy megbízható szoftvert adhatunk át a megrendelőnek.
 
 A tesztelés teljeskörű, mind UI (user interface) mind szerveroldal részéről igyekszünk minden tesztesetet megnézni.
 
@@ -26,7 +27,10 @@ Az alábbi alap elvárások képezik ennek a teszttervnek az alapját:
 
 ## Tesztelési terv
 
-A frontend teszteléséhez a böngészőbe beépített segédeszközökkel kerülnek tesztelésre. Előre beállítható képernyő méretekkel ellenőrizzük, hogy a méretek jól beállítottak a különböző képernyőkhöz. A teszt akkor sikeres, ha a főbb funkciók jól olvashatók és alkalmazhatók. A backend tesztelése minta input-okkal történik. A beviteli mezőkbe elsősorban a kívánt intervallumok és értékek kerülnek tesztelésre, majd ezután véletlenszerű értékekkel is ellenőrzés alá esnek. A teszt abban az esetben sikeres, ha a kívánt értékek elfogadásra kerülnek, a hibás értékekre a rendszer hibaüzenetet küld a felhasználó számára ami számára is információval szolgál.
+A frontend teszteléséhez a böngészőbe beépített segédeszközökkel kerülnek tesztelésre. Előre beállítható képernyő méretekkel ellenőrizzük, hogy a méretek jól 
+beállítottak a különböző képernyőkhöz. A teszt akkor sikeres, ha a főbb funkciók jól olvashatók és alkalmazhatók. A backend tesztelése minta input-okkal történik. A 
+beviteli mezőkbe elsősorban a kívánt intervallumok és értékek kerülnek tesztelésre, majd ezután véletlenszerű értékekkel is ellenőrzés alá esnek. A teszt abban az 
+esetben sikeres, ha a kívánt értékek elfogadásra kerülnek, a hibás értékekre a rendszer hibaüzenetet küld a felhasználó számára ami számára is információval szolgál.
 
 ### 3.1 Fejlesztői teszt
 
@@ -34,13 +38,20 @@ Tervezés és fejlesztés során ügyelünk arra, hogy lehetőleg minden hibát 
 
 ### 3.2 Integrációs teszt
 
-A szoftver nem használ külső rendszert, sem API ,se egyéb módon, viszont az oldal által használt adatbázist többféle szerveren és adatbázis motor alatt tesztelésre kerülnek, hogy egy verzióváltás / platformváltás esetén se történhessen nagyobb kimaradás.
+A szoftver nem használ külső rendszert, sem API ,se egyéb módon, viszont az oldal által használt adatbázist többféle szerveren és adatbázis motor alatt tesztelésre 
+kerülnek, hogy egy verzióváltás / platformváltás esetén se történhessen nagyobb kimaradás.
 
 ### 3.3 Elfogadási teszt
 
-A megrendelő számára átadásra kerül egy példány a weboldalról, aki egy hozzáértő személy segítségével, vagy általa kiválasztott felhasználókkal teszteli. Ha a megrendelő hibát tapasztal, azt a lehető leghamarabb jelzi a fejlesztő csapat felé, hogy a hiba minél előbb javításra kerüljön. Ha a megrendelő számára megfelel a szoftver, úgy elfogadásra kerül a teszt és megkezdődik az éles tesztelés.
+A megrendelő számára átadásra kerül egy példány a weboldalról, aki egy hozzáértő személy segítségével, vagy általa kiválasztott felhasználókkal teszteli. Ha a 
+megrendelő hibát tapasztal, azt a lehető leghamarabb jelzi a fejlesztő csapat felé, hogy a hiba minél előbb javításra kerüljön. Ha a megrendelő számára megfelel a
+szoftver, úgy elfogadásra kerül a teszt és megkezdődik az éles tesztelés.
 
 ### 3.4 Terheléses teszt
+
+A termék kiadása előtt, terhelés alá kell vetni a szoftvert. A tesztelés történhet valódi felhasználókkal vagy script segítségével, mely több felhasználót kezel 
+egyszerre és mindegyikkel az összes funkciót egy időben teszteli. A teszt során a szerver monitorozásra kerül. A teszt végeztével kiértékelésre kerül a termék. Ha az előre megszabott határértékeket tapasztaljuk, a terhelési teszt sikerrel zárul. Ha nem, a megrendelővel és csapattal kommunikációt kell folytatni a probléma 
+kiküszöbölésére.
 
 ### 3.5 Biztonsági teszt
 
