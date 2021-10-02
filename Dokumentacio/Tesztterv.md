@@ -23,7 +23,10 @@ Az alábbi alap elvárások képezik ennek a teszttervnek az alapját:
 
 
 ## Szükséges erőforrások
+
 ## Tesztelési terv
+
+A frontend teszteléséhez a böngészőbe beépített segédeszközökkel kerülnek tesztelésre. Előre beállítható képernyő méretekkel ellenőrizzük, hogy a méretek jól beállítottak a különböző képernyőkhöz. A teszt akkor sikeres, ha a főbb funkciók jól olvashatók és alkalmazhatók. A backend tesztelése minta input-okkal történik. A beviteli mezőkbe elsősorban a kívánt intervallumok és értékek kerülnek tesztelésre, majd ezután véletlenszerű értékekkel is ellenőrzés alá esnek. A teszt abban az esetben sikeres, ha a kívánt értékek elfogadásra kerülnek, a hibás értékekre a rendszer hibaüzenetet küld a felhasználó számára ami számára is információval szolgál.
 
 ### 3.1 Fejlesztői teszt
 
