@@ -34,6 +34,8 @@ Tervezés és fejlesztés során ügyelünk arra, hogy lehetőleg minden hibát 
 
 ### 3.2 Integrációs teszt
 
+A szoftver nem használ külső rendszert, sem API ,se egyéb módon, viszont az oldal által használt adatbázist többféle szerveren és adatbázis motor alatt tesztelésre kerülnek, hogy egy verzióváltás / platformváltás esetén se történhessen nagyobb kimaradás.
+
 ### 3.3 Elfogadási teszt
 
 ### 3.4 Terheléses teszt
