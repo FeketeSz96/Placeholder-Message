@@ -1,3 +1,6 @@
+<?php
+lib('utils/authmanager');
+?>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary" style="margin-top: 25px">
     <div class="container-fluid">
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
