@@ -87,11 +87,7 @@ A Személyes adatok űrlapon végrehajtható feladatok:
 	2) Egy termék választása esetén:
 
 * Láthatunk egy képet a termékről.
-* Mellette a termékről kaphatunk pontosabb információkat:
-**  Neve
-** Ára
-** Vásárlói visszajelzések: Csak bejelentkezett felhasználó tud írni.
-** Rövid leírás
+* Mellette a termékről kaphatunk pontosabb információkat (neve, ára, visszajelzések)
 * A "Kosárba" gomb mellett megadhatjuk, hogy hány db ilyen terméket szerenénk vásárolni.
 * Jelzi, ha elfogyott / limitált mennyiségben van.
 * Akció esetén a régi ár is megjelenik.
