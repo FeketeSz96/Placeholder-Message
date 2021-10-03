@@ -67,8 +67,7 @@ A rendszernek a következő funkciókat kell ellátnia:
 * Adminisztrátorok tudjanak új terméket hozzáadni
 * Adminisztrátorok képesek legyenek a webshopot hibamentesen karbantartani
 * vendégek belépés nélkül is tudjanak keresni és rendelni
-
-A rendszerhez tartozik még a vásárlási folyamatban használt kosár funkció is.
+* A rendszerhez tartozik még a vásárlási folyamatban használt kosár funkció is.
 
 Előfeltételek:
 
