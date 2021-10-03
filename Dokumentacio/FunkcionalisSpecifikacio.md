@@ -1,7 +1,13 @@
 # Funkcionális specifikáció
 ## A fejlesztés folyamán főbb motivációink, és hátráltató tényezők
-Célunk egy olyan felhasználóbarát, ergonomikus weboldal készítése, melynek segítségével az ügyfelek othonuk kényelméből élvezhetik frissen készített pizzákat legyen az egyéni kikapcsolódás keretein belül, családi esemény vagy időtöltés a párjukkal. 
-Korlátozott munkaerőforrás és idő --- tekintettel a járványhelyzet mostani alakulására --- áll csak rendelkezésünkre, így bankkártyás fizetési lehetőséget valamint hasonló bonyulult elemeket nem áll módunkban biztonságosan implementálni.
+Célunk egy olyan felhasználóbarát, ergonomikus weboldal készítése, melynek
+segítségével az ügyfelek othonuk kényelméből élvezhetik frissen készített
+pizzákat legyen az egyéni kikapcsolódás keretein belül, családi esemény vagy
+időtöltés a párjukkal. 
+Korlátozott munkaerőforrás és idő --- tekintettel a járványhelyzet mostani
+alakulására --- áll csak rendelkezésünkre, így bankkártyás fizetési
+lehetőséget valamint hasonló bonyulult elemeket nem áll módunkban
+biztonságosan implementálni.
 ## A rendszer természete
 ### ***A renszert felhasználók 3 csoportra oszthatók***
 * Adminisztrátorok
@@ -17,7 +23,10 @@ Korlátozott munkaerőforrás és idő --- tekintettel a járványhelyzet mostan
 |								|-- tudjanak rendelni									|
 |A vendégek						|-- meg tudja nézni a menűt								|
 ### Rendelések nyomonkövetése
-Arendelések nyomonkövetéséhez hozzá kell adnunk még egy negyedik jogkört, ez lesz az étterem saját felhasználói fiókja. Ez nem tartozik bele a felhasznlói csoportokba, ez azok felett fog állni, az adminisztrátorok álltal is érinthetetlen.
+Arendelések nyomonkövetéséhez hozzá kell adnunk még egy negyedik jogkört, ez
+lesz az étterem saját felhasználói fiókja. Ez nem tartozik bele a felhasznlói
+csoportokba, ez azok felett fog állni, az adminisztrátorok álltal is
+érinthetetlen.
 ```mermaid
 graph LR
 A((Admin)) -- Menü szerkesztése -----> E{Adatbázis}
@@ -34,7 +43,8 @@ D((Vendég)) -- Menű megnézése -----> E
 ### ***Megvalósítandó feladatok:***
 -- A fiókokhoz jelszót kell biztosítani
 -- A fontosabb funkciókat felhasználói fiókhoz kell kötni
--- Az étterem saját fiókját érinthetetlenné kell tenni, számát azonban nem korlátozhatjuk a későbbi esetleges terjeszkedés miatt
+-- Az étterem saját fiókját érinthetetlenné kell tenni, számát azonban nem
+korlátozhatjuk a későbbi esetleges terjeszkedés miatt
 ## Funkciók használati esetei
 A rendszer használói a következők:
 
@@ -62,49 +72,88 @@ A rendszerhez tartozik még a vásárlási folyamatban használt kosár funkció
 
 Előfeltételek:
 
-* adminisztrátorok és regisztráltak részére a rendszer használatához jelszó szükséges
-* fiókadat módosításhoz, hozzászóláshoz, új jelszó kéréshez, és a kosár tartalmának mentéséhez regisztráció szükséges
+* adminisztrátorok és regisztráltak részére a rendszer használatához jelszó
+szükséges
+* fiókadat módosításhoz, hozzászóláshoz, új jelszó kéréshez, és a kosár
+tartalmának mentéséhez regisztráció szükséges
 
 ## Forgató könyvek
-Minden felhasználónkat egy igényes és esztétikus kezdőlap fogad amiről felhasználóink tovább mehetnek (a navigációs sávon keresztül) megannyi oldalra.
-A navigáció sáv a Kezdőlap, Kategóriák, Kiemelet Ajánlatok és Hírlevélre való feliratkozás menüpontokat tartalmazza. Az oldal logója mellett egy keresővel lehet keresni a termékek között. A headerben szerepel még egy "kosár" funkció, amire kattintva meg lehet tekinteni a megvásárolni kívánt termékeket, illetve, egy felhassználói felületre navigáló ikon. A bejelentkező felületen keresztül lehet regisztrációs folyamatot végrehajtani. Ezen funkciók a rendszerbe való belépés előtt minden esetben elérhetők.
+Minden felhasználónkat egy igényes és esztétikus kezdőlap fogad amiről
+felhasználóink tovább mehetnek (a navigációs sávon keresztül) megannyi
+oldalra.
+A navigáció sáv a Kezdőlap, Kategóriák, Kiemelet Ajánlatok és Hírlevélre való
+feliratkozás menüpontokat tartalmazza. Az oldal logója mellett egy keresővel
+lehet keresni a termékek között. A headerben szerepel még egy "kosár"
+funkció, amire kattintva meg lehet tekinteni a megvásárolni kívánt
+termékeket, illetve, egy felhassználói felületre navigáló ikon. A
+bejelentkező felületen keresztül lehet regisztrációs folyamatot végrehajtani.
+Ezen funkciók a rendszerbe való belépés előtt minden esetben elérhetők.
 
-Amennyiben a felhasználó adminisztrátor, a "Kezdőlap" menüpont mellett a "Módosítás" opció jelenik meg. Ezt választva megjelenítjük az adminisztrációs felületet, ahol az oldallal kapcsolatos változtatásokat lehet elvégezni. Termék hozzáadsa, törlés, módosítás, akciózás, ár, felhasználó hozzáadása, törlése, módosítása, jogosuétságának beállítása.
+Amennyiben a felhasználó adminisztrátor, a "Kezdőlap" menüpont mellett a
+"Módosítás" opció jelenik meg. Ezt választva megjelenítjük az adminisztrációs
+felületet, ahol az oldallal kapcsolatos változtatásokat lehet elvégezni.
+Termék hozzáadsa, törlés, módosítás, akciózás, ár, felhasználó hozzáadása,
+törlése, módosítása, jogosuétságának beállítása.
 
-Emellett a felhasználó ikonra kattintva megjelenik a belépett felhasználó neve, személyes adatai, jelszava, "Kijelentkezés" pontok közül lehet választani.
+Emellett a felhasználó ikonra kattintva megjelenik a belépett felhasználó
+neve, személyes adatai, jelszava, "Kijelentkezés" pontok közül lehet
+választani.
 
 
 A Személyes adatok űrlapon végrehajtható feladatok:
 
 
 ### ***A Személyes adatok felületen megjelenítendő feladatok:***
-	1) Felhasználók esetében módosítható:
+
+Felhasználók esetében módosítható:
+
 * Név
 * Telefonszám
 * e-mail cím
 * lakcím
 
-	2) Egy termék választása esetén:
+Egy termék választása esetén:
+
 * Láthatunk egy képet a termékről.
-* Mellette a termékről kaphatunk pontosabb információkat (neve, ára, visszajelzések)
-* A "Kosárba" gomb mellett megadhatjuk, hogy hány db ilyen terméket szerenénk vásárolni.
+* Mellette a termékről kaphatunk pontosabb információkat (neve, ára,
+visszajelzések)
+* A "Kosárba" gomb mellett megadhatjuk, hogy hány db ilyen terméket szerenénk
+vásárolni.
 * Jelzi, ha elfogyott / limitált mennyiségben van.
 * Akció esetén a régi ár is megjelenik.
 
-	3) A Regisztrációra kattintva különböző adatokat kell a felhasználónak megadni:
+A Regisztrációra kattintva különböző adatokat kell a felhasználónak megadni:
+
 * Felhasználónév
 * Jelszó
 * Jelszó mégegyszer: Egyeznie kell a jelszó pontban megadottal.
 * E-mail cím
 
-	3) A kosárra kattintva:
-	* Bejelentkezett felhasználó esetén:
-		* Elmenti a kosár tartalmát, hogy legközelebbi látogatásakor is hozzáférhessen.
-		* Vásárlás alkalmával nem szükséges megadni az adatait.
-	* Nem bejelentkezett felhasználó esetén:
-		* A kosár tartalma az oldal bezárásával törlődik.
-		* A vásárlásra kattintva meg kell adni az adatait
+A kosárra kattintva:
 
+* Bejelentkezett felhasználó esetén:
+	* Elmenti a kosár tartalmát, hogy legközelebbi látogatásakor is
+	hozzáférhessen.
+	* Vásárlás alkalmával nem szükséges megadni az adatait.
+* Nem bejelentkezett felhasználó esetén:
+	* A kosár tartalma az oldal bezárásával törlődik.
+	* A vásárlásra kattintva meg kell adni az adatait
+
+Felhasználó:
+
+* Az adminisztrátor magasabb jogosultsággal tudja felhatalmazni a
+felhaszálókat, így ők is tudják a termékeket módosítani, hozzáadni.
+* Felhasználó törlésével minden adata megsemmisül.
+* Felhasználó módosításával lehet megváltoztani a felhasználó minden adatát:
+nevét, lakcímét, telefonszámát, e-mail címét, születési idejét és jelszavát.
 
 ## A weboldal szükségessége
-A kishazánkat is elérő koronavírus 4. hulláma folyamán kiemelt fontosságú, hogy az érintkezések számát ahol lehet csökkentsük, valamint az esetleges újboli lezárásokat követően a kisvállalkozások anyagi bevételeit fenn tudjuk tartani, hogy megannyi ígéretes vállakozás életben tudjon maradni ezen időszak alatt. Manapság egy vállalkozás életében hatalmas mérföldkő, egy a vállalkozáshoz szorosan köthető weboldal megjelenése. Ennek a weboldalnak a célja az emberek széles körű tájékoztatása a vállalkozás álltal nyújtott szolgáltatásokról. Ezen okokból kifolyólag fontos egy weblap mielőbbi készítése.
+A kishazánkat is elérő koronavírus 4. hulláma folyamán kiemelt fontosságú,
+hogy az érintkezések számát ahol lehet csökkentsük, valamint az esetleges
+újboli lezárásokat követően a kisvállalkozások anyagi bevételeit fenn tudjuk
+tartani, hogy megannyi ígéretes vállakozás életben tudjon maradni ezen
+időszak alatt. Manapság egy vállalkozás életében hatalmas mérföldkő, egy a
+vállalkozáshoz szorosan köthető weboldal megjelenése. Ennek a weboldalnak a
+célja az emberek széles körű tájékoztatása a vállalkozás álltal nyújtott
+szolgáltatásokról. Ezen okokból kifolyólag fontos egy weblap mielőbbi
+készítése.
