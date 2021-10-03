@@ -11,3 +11,15 @@ lib('utils/register');
                 <div class="alert alert-danger"><?= implode(', ', ($errors['username'] ?? [])) ?> </div>
             <?php endif; ?>
         </div>
+        <div class="form-floating mb-3">
+            <input name="email" type="email" class="form-control" id="floatingPassword" placeholder="Password">
+            <label for="floatingPassword">E-mail cím</label>
+            <?php if (isset($errors['email'])): ?>
+                <div class="alert alert-danger"><?= implode(', ', ($errors['email'] ?? [])) ?> </div>
+            <?php endif; ?>        </div>
+        <div class="form-floating mb-3">
+            <input name="password" type="password" class="form-control" id="floatingInput" placeholder="name@example.com">
+            <label for="floatingInput">Jelszó</label>
+            <?php if (isset($errors['password'])): ?>
+                <div class="alert alert-danger"><?= implode(', ', ($errors['password'] ?? [])) ?> </div>
+            <?php endif; ?>
