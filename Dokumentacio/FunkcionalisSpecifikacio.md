@@ -84,5 +84,17 @@ A Személyes adatok űrlapon végrehajtható feladatok:
 * e-mail cím
 * lakcím
 
+	2) Egy termék választása esetén:
+
+* Láthatunk egy képet a termékről.
+* Mellette a termékről kaphatunk pontosabb információkat:
+**  Neve
+** Ára
+** Vásárlói visszajelzések: Csak bejelentkezett felhasználó tud írni.
+** Rövid leírás
+* A "Kosárba" gomb mellett megadhatjuk, hogy hány db ilyen terméket szerenénk vásárolni.
+* Jelzi, ha elfogyott / limitált mennyiségben van.
+* Akció esetén a régi ár is megjelenik.
+
 ## A weboldal szükségessége
 A kishazánkat is elérő koronavírus 4. hulláma folyamán kiemelt fontosságú, hogy az érintkezések számát ahol lehet csökkentsük, valamint az esetleges újboli lezárásokat követően a kisvállalkozások anyagi bevételeit fenn tudjuk tartani, hogy megannyi ígéretes vállakozás életben tudjon maradni ezen időszak alatt. Manapság egy vállalkozás életében hatalmas mérföldkő, egy a vállalkozáshoz szorosan köthető weboldal megjelenése. Ennek a weboldalnak a célja az emberek széles körű tájékoztatása a vállalkozás álltal nyújtott szolgáltatásokról. Ezen okokból kifolyólag fontos egy weblap mielőbbi készítése.
