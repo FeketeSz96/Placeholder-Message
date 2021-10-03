@@ -92,5 +92,12 @@ A Személyes adatok űrlapon végrehajtható feladatok:
 * Jelzi, ha elfogyott / limitált mennyiségben van.
 * Akció esetén a régi ár is megjelenik.
 
+A Regisztrációra kattintva különböző adatokat kell a felhasználónak megadni.
+
+* Felhasználónév
+* Jelszó
+* Jelszó mégegyzser: Egyeznie kell a jelszó pontban megadottal.
+* E-mail cím
+
 ## A weboldal szükségessége
 A kishazánkat is elérő koronavírus 4. hulláma folyamán kiemelt fontosságú, hogy az érintkezések számát ahol lehet csökkentsük, valamint az esetleges újboli lezárásokat követően a kisvállalkozások anyagi bevételeit fenn tudjuk tartani, hogy megannyi ígéretes vállakozás életben tudjon maradni ezen időszak alatt. Manapság egy vállalkozás életében hatalmas mérföldkő, egy a vállalkozáshoz szorosan köthető weboldal megjelenése. Ennek a weboldalnak a célja az emberek széles körű tájékoztatása a vállalkozás álltal nyújtott szolgáltatásokról. Ezen okokból kifolyólag fontos egy weblap mielőbbi készítése.
