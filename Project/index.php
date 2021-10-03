@@ -1,5 +1,5 @@
 <?php
-
+    $PAGE = $_GET['p'] ?? 'mainpages/magunkrol';
 ?>
 
 <html lang="hu">
