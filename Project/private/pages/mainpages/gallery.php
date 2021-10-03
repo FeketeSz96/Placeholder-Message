@@ -1,5 +1,7 @@
 <?php
-
+$result = db_fetchAll('SELECT * FROM files');
+lib('utils/galleryfiller');
+lib('utils/authmanager');
 ?>
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <?php foreach ($result as $file): ?>
