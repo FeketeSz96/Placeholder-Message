@@ -13,6 +13,11 @@
                         <a class="nav-link" href="?p=mainpages/gallery">Galéria</a>
                     </li>
                 <?php endif; ?>
+                <?php if (isAdmin($_SESSION)): ?>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?p=mainpages/users/browse">Felhasználók</a>
+                    </li>
+                <?php endif; ?>
             </ul>
         </div>
     </div>
