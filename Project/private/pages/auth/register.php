@@ -23,3 +23,11 @@ lib('utils/register');
             <?php if (isset($errors['password'])): ?>
                 <div class="alert alert-danger"><?= implode(', ', ($errors['password'] ?? [])) ?> </div>
             <?php endif; ?>
+        </div>
+        <div class="form-floating mb-3">
+            <input name='password_confirmation' type="password" class="form-control" id="floatingPassword" placeholder="Password">
+            <label for="floatingPassword">Jelszó újra</label>
+            <?php if (isset($errors['password_confirmation'])): ?>
+                <div class="alert alert-danger"><?= implode(', ', ($errors['password_confirmation'] ?? [])) ?> </div>
+            <?php endif; ?>
+        </div>
