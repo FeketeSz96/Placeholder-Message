@@ -18,6 +18,10 @@
                         <a class="nav-link" href="?p=mainpages/users/browse">Felhasználók</a>
                     </li>
                 <?php endif; ?>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Profil
+                    </a>
             </ul>
         </div>
     </div>
