@@ -56,6 +56,14 @@
 - Szeifert Roland
 - Tóth Gyula Bátor
 
+## 5/1. Megbeszélés
+### Ideje: 2021. október 3.
+### Téma: Projekt feladatok megírása I. rész
+### Tagok
+- Simon Árpád
+- Szeifert Roland
+
+
 ### Kitűzött célok:
 - Pár napon belül véglegesíteni a dokumentációt
   - követelmény specifikáció
