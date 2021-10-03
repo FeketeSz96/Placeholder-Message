@@ -1,5 +1,8 @@
 <?php
+    session_start();
     $PAGE = $_GET['p'] ?? 'mainpages/magunkrol';
+    require_once 'private/lib/require.php';
+    lib(['database/config', 'database/database', 'utils/request']);
 ?>
 
 <html lang="hu">
