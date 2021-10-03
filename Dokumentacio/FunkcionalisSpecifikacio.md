@@ -85,19 +85,26 @@ A Személyes adatok űrlapon végrehajtható feladatok:
 * lakcím
 
 	2) Egy termék választása esetén:
-
 * Láthatunk egy képet a termékről.
 * Mellette a termékről kaphatunk pontosabb információkat (neve, ára, visszajelzések)
 * A "Kosárba" gomb mellett megadhatjuk, hogy hány db ilyen terméket szerenénk vásárolni.
 * Jelzi, ha elfogyott / limitált mennyiségben van.
 * Akció esetén a régi ár is megjelenik.
 
-A Regisztrációra kattintva különböző adatokat kell a felhasználónak megadni.
-
+	3) A Regisztrációra kattintva különböző adatokat kell a felhasználónak megadni:
 * Felhasználónév
 * Jelszó
-* Jelszó mégegyzser: Egyeznie kell a jelszó pontban megadottal.
+* Jelszó mégegyszer: Egyeznie kell a jelszó pontban megadottal.
 * E-mail cím
+
+	3) A kosárra kattintva:
+	* Bejelentkezett felhasználó esetén:
+		* Elmenti a kosár tartalmát, hogy legközelebbi látogatásakor is hozzáférhessen.
+		* Vásárlás alkalmával nem szükséges megadni az adatait.
+	* Nem bejelentkezett felhasználó esetén:
+		* A kosár tartalma az oldal bezárásával törlődik.
+		* A vásárlásra kattintva meg kell adni az adatait
+
 
 ## A weboldal szükségessége
 A kishazánkat is elérő koronavírus 4. hulláma folyamán kiemelt fontosságú, hogy az érintkezések számát ahol lehet csökkentsük, valamint az esetleges újboli lezárásokat követően a kisvállalkozások anyagi bevételeit fenn tudjuk tartani, hogy megannyi ígéretes vállakozás életben tudjon maradni ezen időszak alatt. Manapság egy vállalkozás életében hatalmas mérföldkő, egy a vállalkozáshoz szorosan köthető weboldal megjelenése. Ennek a weboldalnak a célja az emberek széles körű tájékoztatása a vállalkozás álltal nyújtott szolgáltatásokról. Ezen okokból kifolyólag fontos egy weblap mielőbbi készítése.
