@@ -31,3 +31,10 @@ lib('utils/register');
                 <div class="alert alert-danger"><?= implode(', ', ($errors['password_confirmation'] ?? [])) ?> </div>
             <?php endif; ?>
         </div>
+        
+        <input class="btn btn-primary" type="submit" name="submit" value="Regisztráció">
+        <?php if (isset($errors['_'])): ?>
+            <div class='alert alert-danger m-2'><?= implode(', ', $errors['_']) ?> </div>
+        <?php endif; ?>
+    </form>
+</div>
