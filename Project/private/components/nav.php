@@ -16,7 +16,7 @@ lib('utils/authmanager');
                         <a class="nav-link" href="?p=mainpages/gallery">Galéria</a>
                     </li>
                 <?php endif; ?>
-                <?php if (isAdmin($_SESSION)): ?>
+                <?php if (isAdmin($_SESSION)): ?> 
                     <li class="nav-item">
                         <a class="nav-link" href="?p=mainpages/users/browse">Felhasználók</a>
                     </li>
@@ -25,7 +25,7 @@ lib('utils/authmanager');
                     <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Profil
                     </a>
-                    <?php if (isset($_SESSION['user'])): ?>
+                   <?php if (isset($_SESSION['user'])): ?>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href='?p=auth/profil'>Profil</a></li>
                             <li><a class="dropdown-item" href='?p=auth/logout'>Kijelentkezés</a></li>
