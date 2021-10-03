@@ -59,7 +59,7 @@ Az oldalon történő regisztráció során a felhasználói adatok mentésre ke
 
 ### 3.6 Tesztelési feladatok, teszt-esetek leírása
 
-
+A tesztelési feladat a következő teszt-eseteket foglalja magába: - Frontend teszt (UI) - Backend teszt (programlogika)
 
 ### 3.7 Teszt forgatókönyv
 
