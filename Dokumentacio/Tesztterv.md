@@ -55,8 +55,14 @@ kiküszöbölésére.
 
 ### 3.5 Biztonsági teszt
 
+Az oldalon történő regisztráció során a felhasználói adatok mentésre kerülnek. Hogy ezek ne kerülhessenek rossz kézbe, alapos tesztelésre van szükség. Akkor tekinthető sikeresnek a teszt, ha illetéktelen személy nem juthat információhoz. Ha mégis sikerül bejelentkeznie, nyomon követhető az illető és a felhasználó erről értesítést kap.
+
 ### 3.6 Tesztelési feladatok, teszt-esetek leírása
 
+
+
 ### 3.7 Teszt forgatókönyv
+
+
 
 ## Tesztelési jegyzőkönyv és tesztelési jelentés
