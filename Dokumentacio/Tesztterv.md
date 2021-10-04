@@ -31,7 +31,14 @@ Az alábbi alap elvárások képezik ennek a teszttervnek az alapját:
 * A tesztprogram az ebben a dokumentumban meghatározott tesztterv alapján fut.
 
 
-## Szükséges erőforrások
+## 2. Szükséges erőforrások
+A teszteléshez szükség van egy olyan eszközre mely az internethez van csatlakozva. A csapatunk által használt erőforrások:
+
+* Processzor: Intel(R) Core(TM) i5-5200 CPU @ 2.20GHz
+* RAM: 8 GB
+* Operációs rendszer: Windows 10 Pro (64-bit)
+* 10Mbps/100Mbps internetkapcsolat
+* Böngésző: Google Chrome (88.0.4324.150)
 
 ## Tesztelési terv
 
