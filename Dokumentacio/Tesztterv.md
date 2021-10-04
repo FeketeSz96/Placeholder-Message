@@ -215,3 +215,9 @@ Az alábbi elvárások szerepelnek az üzleti, illetve fejlesztői specifikáci�
 | 2. |        |
 | 3. |        |
 
+### 4.4 Elfogadási kritériumok
+
+A teszt sikerességének kritériumai:
+
+* Technikai, a teszt forgatókönyvben leírtak szerint.
+* A projekt menedzser jóváhagyása a teszt leszállítandókra.
