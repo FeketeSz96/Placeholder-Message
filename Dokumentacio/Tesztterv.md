@@ -185,3 +185,33 @@ kihasználásra, a tesztelési idő csökkentésének érdekében.
 ### 4.2 Tesztelési jelentés
 
 A tesztelési jelentést a tesztkoordinátor készíti el. Ez egy részletes áttekintése a lefutott teszteknek, azok eredmények, státuszának és a megjegyzéseknek. A tesztkoordinátornak ezután el kell juttatnia a projektmenedzsernek a tesztelési jelentést.
+
+### 4.3 Tesztelt elvárások
+
+Az alábbi funkcionális elvárások szerepelnek az üzleti, illetve fejlesztői specifikációban, amelyek tesztelésre is kerültek:
+
+| #  | Leírás |
+| 1. |        |
+| 2. |        |
+| 3. |        |
+| 4. |        |
+| 5. |        |
+| 6. |        |
+
+Az alábbi nem-funkcionális elvárások szerepelnek az üzlei, illetve fejlesztői specifikációban, amelyek tesztelésre is kerültek:
+
+| #  | Leírás |
+| 1. |        |
+| 2. |        |
+| 3. |        |
+| 4. |        |
+| 5. |        |
+| 6. |        |
+
+Az alábbi elvárások szerepelnek az üzleti, illetve fejlesztői specifikációban, amelyek nem kerültek tesztelésre:
+
+| #  | Leírás |
+| 1. |        |
+| 2. |        |
+| 3. |        |
+
