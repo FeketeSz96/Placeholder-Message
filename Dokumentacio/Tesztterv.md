@@ -244,3 +244,31 @@ A teszt sikerességének kritériumai:
 |                        |         | elöbbi megoldást meg-|
 |                        |         | találására           |
 
+### 4.6 Tesztjegyzőkönyv minta
+
+|      Tesztelési jegyzőkönyv      |  |
+| A teszt-eset leírás és célja:    |  |
+| A teszt folyamat/funkció leírása:|  |
+| A tesztelési előfeltételei:      |  |
+| A tesztelés dátuma és időpontja: |  |
+| A tesztadatok típusa:            |  |
+| A tesztet végző személy(ek):     |  |
+| A tesztelt rendszer beállításai: |  |
+| A teszt-eset elvárt eredménye:   |  |
+| A tesztelés eredménye:           |  |
+| Megjegyzések:                    |  |
+
+|    Tesztelést elvégezte     |  |
+| Név:                        |  |
+| Szervezati egység/beosztás: |  |
+| Aláírás:                    |  |
+| Dátum:                      |  |
+
+Jóváhagyások:
+
+|           Jóváhagyó         |  |
+| Név:                        |  |
+| Szervezeti egység/Beosztás: |  |
+| Aláírás:                    |  |
+| Dátum:                      |  |
+
