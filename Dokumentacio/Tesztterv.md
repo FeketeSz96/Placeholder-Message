@@ -70,7 +70,7 @@ Feladatok és felelőségek
 |                   | Teszt forgatókönyv (testscript) |                   |
 |                   | jóváhagyása                     |                   |
 
-### 2.2 Tesztkörnyezet
+### 2.2 Teszt környezet
 
 Ebben a részben meg kell határozni, hogy a tesztelés milyen környezetben történjen (fejlesztői vagy tesztkörnyezet), a környezetek hogyan érthetőek el, továbbá a tesztelők milyen hozzáféréssel végezzék a tesztelést.
 
@@ -78,7 +78,13 @@ Ebben a részben meg kell határozni, hogy a tesztelés milyen környezetben tö
 | -------------------------- | ------------------ | ---------------------------------------- | -------------------------- |
 | Fejlesztői környezet       | Dokumentáció       | Fentebb említett számítógép konfiguráció | Rajna Franciska/Soós Gergő |
 
+### 2.3 Teszt adatok
 
+A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: 3 A tesztadatok elkészítéséért és feltöltéséért felelős személy(ek): Rajna Franciska / Soós Gergő
+
+A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
+
+* Az alapadatok értékkészlete az éles rendszerrel megegyező kell, hogy legyen.
 
 ## Tesztelési terv
 
