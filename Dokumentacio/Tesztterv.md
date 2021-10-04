@@ -181,3 +181,7 @@ kihasználásra, a tesztelési idő csökkentésének érdekében.
 * A tesztkoordinátor a csapattal együtt megoldást keres a problémákra, ezután frissíti a tesztforgatókönyvet
 * Ha a problémát megoldották, a tesztelő újrakezdheti a tesztelést, majd dokumentálja az eredményeket
 * Ha a hiba továbbra is fennáll, és harmadik félen múlik a megoldása eszkalálni kell a problémát a projekt menedzsernek.
+
+### 4.2 Tesztelési jelentés
+
+A tesztelési jelentést a tesztkoordinátor készíti el. Ez egy részletes áttekintése a lefutott teszteknek, azok eredmények, státuszának és a megjegyzéseknek. A tesztkoordinátornak ezután el kell juttatnia a projektmenedzsernek a tesztelési jelentést.
