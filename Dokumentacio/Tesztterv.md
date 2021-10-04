@@ -70,6 +70,16 @@ Feladatok és felelőségek
 |                   | Teszt forgatókönyv (testscript) |                   |
 |                   | jóváhagyása                     |                   |
 
+### 2.2 Tesztkörnyezet
+
+Ebben a részben meg kell határozni, hogy a tesztelés milyen környezetben történjen (fejlesztői vagy tesztkörnyezet), a környezetek hogyan érthetőek el, továbbá a tesztelők milyen hozzáféréssel végezzék a tesztelést.
+
+| Környezet neve és feladata | A hozzáférés módja | Konfiguráció                             | Kapcsolattartó személyek   |
+| -------------------------- | ------------------ | ---------------------------------------- | -------------------------- |
+| Fejlesztői környezet       | Dokumentáció       | Fentebb említett számítógép konfiguráció | Rajna Franciska/Soós Gergő |
+
+
+
 ## Tesztelési terv
 
 A frontend teszteléséhez a böngészőbe beépített segédeszközökkel kerülnek
