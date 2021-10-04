@@ -98,6 +98,11 @@ A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
 | ------------------- | --------------- | --------------------- | --------------- |
 | Tesztelési jelentés |                 |                       |                 |
 
+### 2.5 Tesztelési eszközök
+
+* Böngésző beépíített segédeszközei
+* Weboldal validator
+
 ## Tesztelési terv
 
 A frontend teszteléséhez a böngészőbe beépített segédeszközökkel kerülnek
