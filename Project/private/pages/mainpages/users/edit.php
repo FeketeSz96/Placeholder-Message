@@ -14,7 +14,7 @@ if(isset($_POST['submit'])){
     }
 }
 ?>
-
+<div class="position-absolute top-50 start-50 translate-middle">
     <form method="post">
         <div class="input-group" style="color: white">
             <label for="username" class='form-label me-3'>Username: </label>
@@ -37,3 +37,4 @@ if(isset($_POST['submit'])){
 
         <input type="submit" value="Save" class="btn btn-primary" name="submit">
     </form>
+</div>

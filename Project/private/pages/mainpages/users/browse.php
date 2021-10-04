@@ -2,7 +2,8 @@
 
 $users = db_fetchAll('SELECT * FROM users WHERE 1 ORDER BY `auth` DESC ');
 ?>
-<table>
+<div class="table-responsive">
+    <table class="table align-middle table-light table-dark">
         <thead>
             <tr>
                 <th>id</th>
