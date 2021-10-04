@@ -31,7 +31,7 @@ Az alábbi alap elvárások képezik ennek a teszttervnek az alapját:
 * A tesztprogram az ebben a dokumentumban meghatározott tesztterv alapján fut.
 
 
-### 2. Szükséges erőforrások
+## 2. Szükséges erőforrások
 
 A teszteléshez szükség van egy olyan eszközre mely az internethez van csatlakozva. A csapatunk által használt erőforrások:
 
@@ -103,7 +103,7 @@ A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
 * Böngésző beépíített segédeszközei
 * Weboldal validator
 
-## Tesztelési terv
+## 3. Tesztelési terv
 
 A frontend teszteléséhez a böngészőbe beépített segédeszközökkel kerülnek
 tesztelésre. Előre beállítható képernyő méretekkel ellenőrizzük, hogy a
@@ -172,4 +172,12 @@ forgatókönyvben kell rögzíteni. A teszt forgatókönyv elkészítése során
 kell a párhuzamosan elvégezhető tevékenységek lehetőség szerinti
 kihasználásra, a tesztelési idő csökkentésének érdekében.
 
-## Tesztelési jegyzőkönyv és tesztelési jelentés
+## 4 Tesztelési jegyzőkönyv és tesztelési jelentés
+
+### 4.1 Tesztelési jegyzőkönyv
+
+* A tesztelők a tesztforgatókönyvnek megfelelően elvégzik a tesztelést és az eredményt tesztjegyzőkönyvekben dokumentálják.
+* A teszt kimenetelét minden esetben jelenteni kell a tesztkoordinátornak
+* A tesztkoordinátor a csapattal együtt megoldást keres a problémákra, ezután frissíti a tesztforgatókönyvet
+* Ha a problémát megoldották, a tesztelő újrakezdheti a tesztelést, majd dokumentálja az eredményeket
+* Ha a hiba továbbra is fennáll, és harmadik félen múlik a megoldása eszkalálni kell a problémát a projekt menedzsernek.
