@@ -31,7 +31,8 @@ Az alábbi alap elvárások képezik ennek a teszttervnek az alapját:
 * A tesztprogram az ebben a dokumentumban meghatározott tesztterv alapján fut.
 
 
-## 2. Szükséges erőforrások
+### 2. Szükséges erőforrások
+
 A teszteléshez szükség van egy olyan eszközre mely az internethez van csatlakozva. A csapatunk által használt erőforrások:
 
 * Processzor: Intel(R) Core(TM) i5-5200 CPU @ 2.20GHz
@@ -39,6 +40,35 @@ A teszteléshez szükség van egy olyan eszközre mely az internethez van csatla
 * Operációs rendszer: Windows 10 Pro (64-bit)
 * 10Mbps/100Mbps internetkapcsolat
 * Böngésző: Google Chrome (88.0.4324.150)
+
+### 2.1 Feladatkörök és felelősségek (tesztcsapat meghatározása)
+
+Feladatok és felelőségek
+
+| Feladatkör        | Felelősség/Tevékenység          | Személy/Személyek |
+| ----------------- | ------------------------------- | ----------------- |
+| Tesztelő          | A teszt végrehajtása,           |                   |
+|                   | Észrevételek dokumentációja,    |                   |
+|                   | Teszt Dokumentáció archiválása  |                   |
+| ----------------- | ------------------------------- | ----------------- |
+| Szakértő          | A szakértő az észrevételeket    |                   |
+|                   | elemzi és megoldást javasol.    |                   |
+| ----------------- | ------------------------------- | ----------------- |
+| Teszt koordinátor | Teszt terv készítése, A teszt-  |                   |
+|                   | terv jóváhagyatása a projektme- |                   |
+|                   | nedzserrel, Teszt forgatókönyvek|                   |
+|                   | létrehozása, Inkoncisztenciák   |                   |
+|                   | kezelése, Helyes és időbeni     |                   |
+|                   | hibakezelés, Szükség esetén     |                   |
+|                   | problémák eszkalálása a projekt |                   |
+|                   | menedzsernek, Végső riport      |                   |
+|                   | készítése, Teszt dokumentum arc-|                   |
+|                   | hiválása, Az észrevételek státu-|                   |
+|                   | szának követése, dokumentálása  |                   |
+| ----------------- | ------------------------------- | ----------------- |
+| Projektvezető     | Teszt terv jóváhagyása, Teszt   |                   |
+|                   | Teszt forgatókönyv (testscript) |                   |
+|                   | jóváhagyása                     |                   |
 
 ## Tesztelési terv
 
