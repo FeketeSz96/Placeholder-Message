@@ -221,3 +221,54 @@ A teszt sikerességének kritériumai:
 
 * Technikai, a teszt forgatókönyvben leírtak szerint.
 * A projekt menedzser jóváhagyása a teszt leszállítandókra.
+
+### 4.5 Kockázatkezelés
+
+| Kockázat               | Hatás   | Kockázatkezelési mód |
+| ---------------------- | ------- | -------------------- |
+| Csapattag megbetegedés | közepes | Adott feladatok át-  |
+|                        |         | hárulnak egy másik   |
+|                        |         | pattagre             |
+| ---------------------- | ------- | -------------------- |
+| Számítógép meghibásodás| magas   | Erőforrások meg-     |
+|                        |         | osztása a csapatta-  |
+|                        |         | goknál               |
+| ---------------------- | ------- | -------------------- |
+| Adatveszteség          | magas   | Folyamatos biztonsági|
+|                        |         | mentés, verziókövetés|
+| ---------------------- | ------- | -------------------- |
+| Kiosztott feladat el-  | magas   | Szigorú határidők be-|
+| mulasztása             |         | tartása, folyamatos  |
+|                        |         | törekvés hátráltató  |
+|                        |         | probléma esetén a mi-|
+|                        |         | elöbbi megoldást meg-|
+|                        |         | találására           |
+
+### 4.6 Tesztjegyzőkönyv minta
+
+|      Tesztelési jegyzőkönyv      |  |
+| A teszt-eset leírás és célja:    |  |
+| A teszt folyamat/funkció leírása:|  |
+| A tesztelési előfeltételei:      |  |
+| A tesztelés dátuma és időpontja: |  |
+| A tesztadatok típusa:            |  |
+| A tesztet végző személy(ek):     |  |
+| A tesztelt rendszer beállításai: |  |
+| A teszt-eset elvárt eredménye:   |  |
+| A tesztelés eredménye:           |  |
+| Megjegyzések:                    |  |
+
+|    Tesztelést elvégezte     |  |
+| Név:                        |  |
+| Szervezati egység/beosztás: |  |
+| Aláírás:                    |  |
+| Dátum:                      |  |
+
+Jóváhagyások:
+
+|           Jóváhagyó         |  |
+| Név:                        |  |
+| Szervezeti egység/Beosztás: |  |
+| Aláírás:                    |  |
+| Dátum:                      |  |
+
