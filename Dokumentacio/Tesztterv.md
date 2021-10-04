@@ -221,3 +221,26 @@ A teszt sikerességének kritériumai:
 
 * Technikai, a teszt forgatókönyvben leírtak szerint.
 * A projekt menedzser jóváhagyása a teszt leszállítandókra.
+
+### 4.5 Kockázatkezelés
+
+| Kockázat               | Hatás   | Kockázatkezelési mód |
+| ---------------------- | ------- | -------------------- |
+| Csapattag megbetegedés | közepes | Adott feladatok át-  |
+|                        |         | hárulnak egy másik   |
+|                        |         | pattagre             |
+| ---------------------- | ------- | -------------------- |
+| Számítógép meghibásodás| magas   | Erőforrások meg-     |
+|                        |         | osztása a csapatta-  |
+|                        |         | goknál               |
+| ---------------------- | ------- | -------------------- |
+| Adatveszteség          | magas   | Folyamatos biztonsági|
+|                        |         | mentés, verziókövetés|
+| ---------------------- | ------- | -------------------- |
+| Kiosztott feladat el-  | magas   | Szigorú határidők be-|
+| mulasztása             |         | tartása, folyamatos  |
+|                        |         | törekvés hátráltató  |
+|                        |         | probléma esetén a mi-|
+|                        |         | elöbbi megoldást meg-|
+|                        |         | találására           |
+
