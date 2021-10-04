@@ -76,7 +76,7 @@ Ebben a részben meg kell határozni, hogy a tesztelés milyen környezetben tö
 
 | Környezet neve és feladata | A hozzáférés módja | Konfiguráció                             | Kapcsolattartó személyek   |
 | -------------------------- | ------------------ | ---------------------------------------- | -------------------------- |
-| Fejlesztői környezet       | Dokumentáció       | Fentebb említett számítógép konfiguráció | Rajna Franciska/Soós Gergő |
+| Fejlesztői környezet       | Dokumentáció       | Fentebb említett számítógép konfiguráció |                            |
 
 ### 2.3 Teszt adatok
 
@@ -85,6 +85,18 @@ A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: 3 A teszta
 A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
 
 * Az alapadatok értékkészlete az éles rendszerrel megegyező kell, hogy legyen.
+
+### 2.4 Leszállítandó teszt dokumentumok
+
+| Cím                 | Felelős személy | Szállítás gyakorisága | Szállítás módja |
+| ------------------- | --------------- | --------------------- | --------------- |
+| Tesztterv           |                 |                       |                 |
+| ------------------- | --------------- | --------------------- | --------------- |
+| Teszt-esetek        |                 |                       |                 |
+| ------------------- | --------------- | --------------------- | --------------- |
+| Tesztjegyzőkönyvek  |                 |                       |                 |
+| ------------------- | --------------- | --------------------- | --------------- |
+| Tesztelési jelentés |                 |                       |                 |
 
 ## Tesztelési terv
 
