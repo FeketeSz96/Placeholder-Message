@@ -191,6 +191,7 @@ A tesztelési jelentést a tesztkoordinátor készíti el. Ez egy részletes át
 Az alábbi funkcionális elvárások szerepelnek az üzleti, illetve fejlesztői specifikációban, amelyek tesztelésre is kerültek:
 
 | #  | Leírás |
+| -- | ------ |
 | 1. |        |
 | 2. |        |
 | 3. |        |
@@ -201,6 +202,7 @@ Az alábbi funkcionális elvárások szerepelnek az üzleti, illetve fejlesztői
 Az alábbi nem-funkcionális elvárások szerepelnek az üzlei, illetve fejlesztői specifikációban, amelyek tesztelésre is kerültek:
 
 | #  | Leírás |
+| -- | ------ |
 | 1. |        |
 | 2. |        |
 | 3. |        |
@@ -211,6 +213,7 @@ Az alábbi nem-funkcionális elvárások szerepelnek az üzlei, illetve fejleszt
 Az alábbi elvárások szerepelnek az üzleti, illetve fejlesztői specifikációban, amelyek nem kerültek tesztelésre:
 
 | #  | Leírás |
+| -- | ------ |
 | 1. |        |
 | 2. |        |
 | 3. |        |
@@ -309,6 +312,7 @@ Jóváhagyások:
 | Megjegyzések:                    |  |
 
 |   Tesztelést elvégezte      |  |
+| --------------------------- |  |
 | Név:                        |  |
 | Szervezeti egység/beosztás: |  |
 | Aláírás:                    |  |
@@ -317,6 +321,7 @@ Jóváhagyások:
 Jóváhagyások:
 
 |         Jóváhagyó          |  |
+| -------------------------- |  |
 | Név:                       |  |
 | Szervezeti egység/beosztás:|  |
 | Aláírás:                   |  |
