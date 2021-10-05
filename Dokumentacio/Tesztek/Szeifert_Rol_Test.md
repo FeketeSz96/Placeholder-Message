@@ -18,8 +18,8 @@
 
 | Tesztelt input | Tesztadatok | Elvárt eredmény | Aktuális eredmény | Megfelelősség státusza |
 | --- | --- | --- | --- | --- |
-| Felhasználónév | mikimi, Genshop2021 | Üresen hagyás esetén jelez a rendszer. | Üresen hagyás esetén jelez a rendszer. | Megfelelt |
-| Jelszó | mikimi, Genshop2021 | Üresen hagyás esetén jelez a rendszer. Minimum 8 karakteres kell legyen, és tartalmazni kell nagybetűt és számot is. Ha kevés vagy hibás az adat akkor jelez a rendszer. | Üresen hagyás esetén jelez a rendszer. Minimum 8 karakteres kell legyen, és tartalmazni kell nagybetűt és számot is. Ha kevés vagy hibás az adat akkor jelez a rendszer. | Megfelelt |
+| Felhasználónév | szRolEe | Üresen hagyás esetén jelez a rendszer. | Üresen hagyás esetén jelez a rendszer. | Megfelelt |
+| Jelszó | szRolee | Üresen hagyás esetén jelez a rendszer. Minimum 8 karakteres kell legyen, és tartalmazni kell nagybetűt és számot is. Ha kevés vagy hibás az adat akkor jelez a rendszer. | Üresen hagyás esetén jelez a rendszer. Minimum 8 karakteres kell legyen, és tartalmazni kell nagybetűt és számot is. Ha kevés vagy hibás az adat akkor jelez a rendszer. | Megfelelt |
 | E-mail | [valami@gmail.com](mailto:valami@gmail.com)valami, valami@, valami@gmail, valami@gmail.c | Üresen hagyás esetén jelez a rendszer. 4-es tagolás: név + @ + oldal neve + domain cím. Ha ezek egyike is hiányzik, akkor azt a rendszer jelzi. | Üresen hagyás esetén jelez a rendszer. 4-es tagolás: név + @ + oldal neve + domain cím. Ha ezek egyike is hiányzik, akkor azt a rendszer jelzi. | Megfelelt |
 | Teljes név | Valaki Valami,Va, Va V | Üresen hagyás esetén jelez a rendszer. Legalább 4 karakter hosszúnak kell lennie, és a formátumnak megkell felelnie (egy teljes név legalább 2 részből áll) | Üresen hagyás esetén jelez a rendszer. Legalább 4 karakter hosszúnak kell lennie, és a formátumnak megkell felelnie (egy teljes név legalább 2 részből áll) | Megfelelt |
 | Neme | Férfi | Ha nincs kiválasztva semmi, akkor a rendszer jelez. | Ha nincs kiválasztva semmi, akkor a rendszer jelez. | Megfelelt |
