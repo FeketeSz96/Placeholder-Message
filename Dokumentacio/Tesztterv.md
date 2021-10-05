@@ -249,33 +249,21 @@ A teszt sikerességének kritériumai:
 |      Tesztelési jegyzőkönyv      |  |
 | -------------------------------- | -- |
 | A teszt-eset leírás és célja:    |  |
-| -------------------------------- | -- |
 | A teszt folyamat/funkció leírása:|  |
-| -------------------------------- | -- |
 | A tesztelési előfeltételei:      |  |
-| -------------------------------- | -- |
 | A tesztelés dátuma és időpontja: |  |
-| -------------------------------- | -- |
 | A tesztadatok típusa:            |  |
-| -------------------------------- | -- |
 | A tesztet végző személy(ek):     |  |
-| -------------------------------- | -- |
 | A tesztelt rendszer beállításai: |  |
-| -------------------------------- | -- |
 | A teszt-eset elvárt eredménye:   |  |
-| -------------------------------- | -- |
 | A tesztelés eredménye:           |  |
-| -------------------------------- | -- |
 | Megjegyzések:                    |  |
 
 |    Tesztelést elvégezte     |  |
 | --------------------------- | -- |
 | Név:                        |  |
-| --------------------------- | -- |
 | Szervezati egység/beosztás: |  |
-| --------------------------- | -- |
 | Aláírás:                    |  |
-| --------------------------- | -- |
 | Dátum:                      |  |
 
 Jóváhagyások:
@@ -283,11 +271,8 @@ Jóváhagyások:
 |           Jóváhagyó         |  |
 | --------------------------- | -- |
 | Név:                        |  |
-| --------------------------- | -- |
 | Szervezeti egység/Beosztás: |  |
-| --------------------------- | -- |
 | Aláírás:                    |  |
-| --------------------------- | -- |
 | Dátum:                      |  |
 
 ### 4.7 Tesztelési jelentés minta
