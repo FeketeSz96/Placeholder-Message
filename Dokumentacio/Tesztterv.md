@@ -80,7 +80,7 @@ Ebben a részben meg kell határozni, hogy a tesztelés milyen környezetben tö
 
 ### 2.3 Teszt adatok
 
-A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: 3 A tesztadatok elkészítéséért és feltöltéséért felelős személy(ek): Rajna Franciska / Soós Gergő
+A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: 3 A tesztadatok elkészítéséért és feltöltéséért felelős személy(ek):
 
 A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
 
@@ -91,11 +91,8 @@ A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
 | Cím                 | Felelős személy | Szállítás gyakorisága | Szállítás módja |
 | ------------------- | --------------- | --------------------- | --------------- |
 | Tesztterv           |                 |                       |                 |
-| ------------------- | --------------- | --------------------- | --------------- |
 | Teszt-esetek        |                 |                       |                 |
-| ------------------- | --------------- | --------------------- | --------------- |
 | Tesztjegyzőkönyvek  |                 |                       |                 |
-| ------------------- | --------------- | --------------------- | --------------- |
 | Tesztelési jelentés |                 |                       |                 |
 
 ### 2.5 Tesztelési eszközök
@@ -191,6 +188,7 @@ A tesztelési jelentést a tesztkoordinátor készíti el. Ez egy részletes át
 Az alábbi funkcionális elvárások szerepelnek az üzleti, illetve fejlesztői specifikációban, amelyek tesztelésre is kerültek:
 
 | #  | Leírás |
+| -- | ------ |
 | 1. |        |
 | 2. |        |
 | 3. |        |
@@ -201,6 +199,7 @@ Az alábbi funkcionális elvárások szerepelnek az üzleti, illetve fejlesztői
 Az alábbi nem-funkcionális elvárások szerepelnek az üzlei, illetve fejlesztői specifikációban, amelyek tesztelésre is kerültek:
 
 | #  | Leírás |
+| -- | ------ |
 | 1. |        |
 | 2. |        |
 | 3. |        |
@@ -211,6 +210,7 @@ Az alábbi nem-funkcionális elvárások szerepelnek az üzlei, illetve fejleszt
 Az alábbi elvárások szerepelnek az üzleti, illetve fejlesztői specifikációban, amelyek nem kerültek tesztelésre:
 
 | #  | Leírás |
+| -- | ------ |
 | 1. |        |
 | 2. |        |
 | 3. |        |
@@ -247,6 +247,7 @@ A teszt sikerességének kritériumai:
 ### 4.6 Tesztjegyzőkönyv minta
 
 |      Tesztelési jegyzőkönyv      |  |
+| -------------------------------- | -- |
 | A teszt-eset leírás és célja:    |  |
 | A teszt folyamat/funkció leírása:|  |
 | A tesztelési előfeltételei:      |  |
@@ -259,6 +260,7 @@ A teszt sikerességének kritériumai:
 | Megjegyzések:                    |  |
 
 |    Tesztelést elvégezte     |  |
+| --------------------------- | -- |
 | Név:                        |  |
 | Szervezati egység/beosztás: |  |
 | Aláírás:                    |  |
@@ -267,8 +269,42 @@ A teszt sikerességének kritériumai:
 Jóváhagyások:
 
 |           Jóváhagyó         |  |
+| --------------------------- | -- |
 | Név:                        |  |
-| Szervezeti egység/Beosztás: |  |
+| Szervezeti egység/beosztás: |  |
 | Aláírás:                    |  |
 | Dátum:                      |  |
 
+### 4.7 Tesztelési jelentés minta
+
+|        Tesztelési jelentés       |  |
+| -------------------------------- | -- |
+| A hivatkozott tesztjegyzőkönyvek |  |
+| rövid leírása és eredménye:      |  |
+| -------------------------------- | -- |
+| A tesztelt folyamatok/funkció/mo-|  |
+| dulok leírása:                   |  |
+| -------------------------------- | -- |
+| A tesztadatok típusa:            |  |
+| -------------------------------- | -- |
+| A tesztelt rendszer beállításai: |  |
+| -------------------------------- | -- |
+| A tesztelések eredménye:         |  |
+| -------------------------------- | -- |
+| Megjegyzések:                    |  |
+
+|   Tesztelést elvégezte      |  |
+| --------------------------- | -- |
+| Név:                        |  |
+| Szervezeti egység/beosztás: |  |
+| Aláírás:                    |  |
+| Dátum:                      |  |
+
+Jóváhagyások:
+
+|         Jóváhagyó          |  |
+| -------------------------- | -- |
+| Név:                       |  |
+| Szervezeti egység/beosztás:|  |
+| Aláírás:                   |  |
+| Dátum:                     |  |
