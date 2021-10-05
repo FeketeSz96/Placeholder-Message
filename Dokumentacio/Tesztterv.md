@@ -80,7 +80,7 @@ Ebben a részben meg kell határozni, hogy a tesztelés milyen környezetben tö
 
 ### 2.3 Teszt adatok
 
-A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: 3 A tesztadatok elkészítéséért és feltöltéséért felelős személy(ek): Rajna Franciska / Soós Gergő
+A teszt végrehajtásához szükséges rekordok (tesztadatok) száma: 3 A tesztadatok elkészítéséért és feltöltéséért felelős személy(ek):
 
 A tesztadatoknak az alábbi követelményeknek kell megfelelniük:
 
