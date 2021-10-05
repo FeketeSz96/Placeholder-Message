@@ -271,7 +271,7 @@ Jóváhagyások:
 |           Jóváhagyó         |  |
 | --------------------------- | -- |
 | Név:                        |  |
-| Szervezeti egység/Beosztás: |  |
+| Szervezeti egység/beosztás: |  |
 | Aláírás:                    |  |
 | Dátum:                      |  |
 
